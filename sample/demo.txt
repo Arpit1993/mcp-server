@@ -1,0 +1,6 @@
+Roses are red.
+Violets are blue.
+MCP servers are cool.
+This demo will search this file for a keyword.
+Red rover, red rover.
+
